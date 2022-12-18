@@ -1,4 +1,4 @@
-## Oiii eu sou a Ester Oliveira, Cientista de dados recém formada busco oportunidades de trabalho na área Business Intelligence ou Dev. Python. 
+## ! 
 
 <div align="center">
   <a href="https://github.com/EsterBOliveira">
