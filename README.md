@@ -2,6 +2,8 @@
 
 Além disso, esse repositório também serve como um portfólio dos meus conhecimentos e habilidades na área de desenvolvimento de software. Estou sempre buscando aprender e aperfeiçoar minhas habilidades, então espero que você veja a evolução do meu trabalho ao longo do tempo. Fico feliz em receber feedback e sugestões, então não hesite em entrar em contato. Obrigado por visitar!
 
+https://www.linkedin.com/in/ester-oliveira-53bb111b3/
+
 <div align="center">
   <a href="https://github.com/EsterBOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsterBOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
