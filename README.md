@@ -1,6 +1,6 @@
-## Bem Vindo(a) ao meu repositório . Aqui você encontrará projetos desenvolvidos em diversas linguagens de programação e tecnologias. Sinta-se à vontade para dar uma olhada, fornecer feedback e contribuir para o crescimento e melhoria destes projetos.
+## Bem Vindo(a) ao meu repositório .
 
-Além disso, esse repositório também serve como um portfólio dos meus conhecimentos e habilidades na área de desenvolvimento de software. Estou sempre buscando aprender e aperfeiçoar minhas habilidades, então espero que você veja a evolução do meu trabalho ao longo do tempo. Fico feliz em receber feedback e sugestões, então não hesite em entrar em contato. Obrigado por visitar!
+ Aqui você encontrará projetos desenvolvidos em diversas linguagens de programação e tecnologias. Sinta-se à vontade para dar uma olhada, fornecer feedback e contribuir para o crescimento e melhoria destes projetos.Além disso, esse repositório também serve como um portfólio dos meus conhecimentos e habilidades na área de desenvolvimento de software. Estou sempre buscando aprender e aperfeiçoar minhas habilidades, então espero que você veja a evolução do meu trabalho ao longo do tempo. Fico feliz em receber feedback e sugestões, então não hesite em entrar em contato. Obrigado por visitar!
 
 https://www.linkedin.com/in/ester-oliveira-53bb111b3/
 
